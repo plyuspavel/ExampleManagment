@@ -1,4 +1,3 @@
 # ExampleManagment
 
-
-dsfsdf
+Адекватное описание
